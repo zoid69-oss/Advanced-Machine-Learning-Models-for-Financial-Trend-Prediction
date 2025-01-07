@@ -52,22 +52,6 @@ Repository Structure
 Installation
 To set up and run this project:
 
-Clone the repository:
-
-git clone https://github.com/your-username/financial-trend-prediction.git
-cd financial-trend-prediction
-Install the required Python libraries:
-
-pip install -r requirements.txt
-Launch Jupyter Notebook:
-
-jupyter notebook
-How to Use
-Load Data: Place historical financial data in the data/ directory.
-
-Run Notebooks: Open and run the notebooks in the notebooks/ folder to train models and evaluate performance.
-
-Analyze Results: View performance metrics and visualizations in the results/ folder.
 
 Results
 Model Performance
